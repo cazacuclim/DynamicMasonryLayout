@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ModuleView">
+        <attr name="ssv_cell_number_horizontal" format="integer"/>
+        <attr name="ssv_cell_number_vertical" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="MasonryLayout">
+        <attr name="ssv_gap" format="dimension"/>
+        <attr name="ssv_padding" format="dimension"/>
+        <attr name="ssv_cell_number" format="integer"/>
+    </declare-styleable>
+</resources>
